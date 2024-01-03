@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there, I'm Debopriya!"
+title: "👋 Hello there, I'm Debopriya!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -19,7 +19,7 @@ redirect_from:
 
   <p>🤝 Committed to networking and forging professional relationships within the industry, I'm enthusiastic about leveraging my skills and passion to create impactful, innovative solutions.</p>
 
-  <a href="/path/to/cv.pdf" style="background-color: #000000; color: #ffffff; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-family: 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; font-weight: 500; font-size: 16px;">Download CV</a>
+  <a href="/path/to/cv.pdf" style="background-color: #007AFF; color: #ffffff; padding: 10px 20px; border-radius: 13px; text-decoration: none; font-family: 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; font-weight: 500; font-size: 17px;">Download CV</a>
 </div>
 
 
@@ -27,7 +27,7 @@ redirect_from:
 
 # Work Experience
 
-## Java Trainer @ [Nexvalli](https://nexxvali.com/)
+## Java Trainer @ [Nexxvalli](https://nexxvali.com/)
 
 📅 July 2022 - Present
 
