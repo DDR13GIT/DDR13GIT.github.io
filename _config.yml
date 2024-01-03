@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Debopriya Deb Roy | Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Debopriya Deb Roy"
 description              : &description "personal description"
 url                      : https://ddr13git.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Debopriya Deb Roy"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "profilePic.png"
+  bio              : "Java Trainer @ Nexxvali | Equipping QA Engineers with Essential Skills | ML Enthusiast"
+  location         : "Dhaka, Bangladesh"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
