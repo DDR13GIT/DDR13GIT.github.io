@@ -18,7 +18,7 @@ redirect_from:
 
 🚀 Constantly curious and keen on learning, I actively engage in workshops and seminars to stay updated with the latest tech trends. Outside the tech realm, I'm also a musician, composing music in my leisure time, fostering creativity and innovative thinking.
 
-🤝 Committed to networking and forging professional relationships within the industry, I'm enthusiastic about leveraging my skills and passion to create impactful, innovative solutions.
+🤝 Committed to networking and forging professional relationships within the industry, I'm enthusiastic about leveraging my skills and passion to create impactful, innovative solutions. </div>
 
 ---
 
